@@ -91,7 +91,7 @@ A modern Jail Management System (JMS) typically integrates the following modules
 
 1. Fork this repository. 🍴
 2. Add or update entries in `README.md` maintaining table formatting. ✍️
-3. Ensure entries include accurate pricing, company scale, or GitHub star badges. ⭐
+3. Ensure entries include accurate pricing, company scale, or GitHub Stars_Badges. ⭐
 4. Open a Pull Request with a brief explanation of changes. 🚀
 
 ---
